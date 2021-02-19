@@ -1,6 +1,7 @@
 # gRPCurl
 [![Build Status](https://travis-ci.com/fullstorydev/grpcurl.svg?branch=master)](https://travis-ci.com/github/fullstorydev/grpcurl/branches)
 [![Go Report Card](https://goreportcard.com/badge/github.com/fullstorydev/grpcurl)](https://goreportcard.com/report/github.com/fullstorydev/grpcurl)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthonzak%2Fgrpcurl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthonzak%2Fgrpcurl?ref=badge_shield)
 
 `grpcurl` is a command-line tool that lets you interact with gRPC servers. It's
 basically `curl` for gRPC servers.
@@ -215,3 +216,7 @@ When using protosets, you can omit the server address (host:port or path to Unix
 when using the "list" and "describe" operations since they only need to consult the
 protoset files.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthonzak%2Fgrpcurl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthonzak%2Fgrpcurl?ref=badge_large)
